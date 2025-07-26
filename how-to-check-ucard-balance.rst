@@ -5,12 +5,30 @@ Check Your UCard Balance and Available Benefits
 
 Wondering where your UnitedHealthcare UCard actually works? This guide breaks down where and how to use it—from paying for doctor visits and prescriptions to shopping for OTC essentials and healthy groceries.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Why Use UCard?
 --------------
 
 UCard makes it easier to manage your healthcare expenses, pay for medical services, and purchase eligible wellness products at approved retailers.
 
 **Example:** David uses his UCard to pay for a check-up at the doctor’s office, then shops for OTC medications and groceries at Walmart—all using the same card.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Where Can You Use UCard?
 ------------------------
@@ -22,6 +40,15 @@ Where Can You Use UCard?
 - **Online Shopping** – UCard Hub and Amazon (for select OTC items)
 
 **Tip:** Not all stores accept UCard for every category. Check your plan’s eligibility on UCard Hub.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 How to Use UCard for OTC Shopping
 ---------------------------------
@@ -59,6 +86,15 @@ UnitedHealthcare and Amazon provide a co-branded catalog of eligible health prod
 - Vitamins
 - Other wellness items
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Shopping is possible via UCard Hub or select stores (e.g., Walmart, CVS, Walgreens).
 
 Frequently Asked Questions (FAQ)
@@ -78,6 +114,16 @@ Use it at medical providers, pharmacies, grocery stores, and online platforms fo
 - Safeway
 - Dollar General
 - Family Dollar
+
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 **How to use UCard at a grocery store?**
 
