@@ -5,6 +5,15 @@ HealthSafe ID Explained: The One Login You Need for Your UnitedHealthcare Accoun
 
 When managing your healthcare online, simplicity and security should go hand in hand. That’s the principle behind HealthSafe ID, a unified login system developed by UnitedHealthcare. In this guide, we’ll walk through how this system works, why it exists, and what it means for you. Whether you're registering or updating your account, this article explains it all.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 What is HealthSafe ID?
 -----------------------
 HealthSafe ID is a secure authentication method that gives members of UnitedHealthcare a single way to sign into all associated services. You use one username and one password to sign into your online account—no matter the service.
@@ -32,6 +41,15 @@ The system enhances both security and convenience:
 - Encrypts user identity and login sessions
 - Offers centralized access to all UHC tools
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 With HealthSafe ID, you can:
 
 - View or print your ID card
@@ -46,6 +64,15 @@ How to Register for HealthSafe ID
 3. Enter required info: member name, number, DOB, ZIP
 4. Create your username and password
 5. Confirm via email or SMS
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Where to Use HealthSafe ID
 ---------------------------
@@ -74,6 +101,15 @@ You can update:
 - Email
 
 Forgot your credentials? Click “Forgot username or password?” on the login page. You’ll be asked to verify identity via SMS or email.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Benefits of a Single HealthSafe ID
 ----------------------------------
