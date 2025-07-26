@@ -1,4 +1,4 @@
-.. _use-ucard-for-shopping:
+.. _how-to-check-ucard-balance.rst:
 
 Check Your UCard Balance and Available Benefits
 ==============================================
