@@ -1,39 +1,53 @@
-# Configuration file for the Sphinx documentation builder.
-
 import os
 import sys
+sys.path.insert(0, os.path.abspath('.'))
 
-# -- Path setup --------------------------------------------------------------
-
-# If extensions or modules to document with autodoc are in another directory,
-# add these directories to sys.path here.
-# Example: sys.path.insert(0, os.path.abspath('../src'))
-
-# -- Project information -----------------------------------------------------
+# -- Project Information -----------------------------------------------------
 
 project = 'UCard Help Documentation'
 copyright = '2025, UCard Help'
-author = 'UCard Support Team'
+author = 'UCard Help Team'
 release = '1.0.0'
 
-# -- HTML output settings ----------------------------------------------------
+# -- General Configuration ---------------------------------------------------
 
-html_title = "UCard Help Center – Activate, Shop, and Check Balance"
-html_short_title = "UCard Help"
-html_favicon = 'favicon.ico'  # Place in root or _static
+extensions = [
+    'myst_parser',  # Optional, for .md support if needed
+]
 
-# html_theme = 'sphinx_rtd_theme'  # Uncomment if using RTD theme
-
-html_show_sourcelink = False
-html_allow_unsafe = True
-raw_enabled = True
-
-# Optional: Add custom templates or static files
 templates_path = ['_templates']
-# html_static_path = ['_static']
+exclude_patterns = []
 
-# -- Theme Options (optional) ------------------------------------------------
+# -- HTML Output -------------------------------------------------------------
+
+html_theme = 'sphinx_book_theme'
+
+html_title = "UCard Help Center"
+html_short_title = "UCard Help"
+html_favicon = 'favicon.ico'  # Optional: place favicon.ico in root or _static
 
 html_theme_options = {
-    'show_powered_by': False,
+    "repository_url": "https://github.com/your-org/ucard-docs",  # optional
+    "use_repository_button": False,
+    "use_edit_page_button": False,
+    "home_page_in_toc": True,
+    "show_navbar_depth": 1,
+    "navigation_with_keys": True,
+}
+
+html_context = {
+    "display_github": False,
+    "default_mode": "auto",
+}
+
+html_static_path = ['_static']  # Optional
+
+html_show_sourcelink = False
+html_show_sphinx = False
+
+# -- Options for reStructuredText -------------------------------------------
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    # '.md': 'markdown',  # Uncomment if you want Markdown support
 }
