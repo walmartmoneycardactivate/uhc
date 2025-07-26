@@ -3,6 +3,15 @@
 Use UCard For Shopping, Payments & Benefits
 ===========================================
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Wondering where your UnitedHealthcare UCard actually works? This guide breaks down where and how to use it—from paying for doctor visits and prescriptions to shopping for OTC essentials and healthy groceries. Whether you're swiping it at a pharmacy, checking out at Walmart, or exploring online options, this covers everything you need to know.
 
 Why Use UCard?
@@ -14,6 +23,15 @@ UCard makes it easier to manage your healthcare expenses, pay for medical servic
 
 Where Can You Use UCard?
 -------------------------
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 - **Medical Providers** – Pay for doctor visits, lab tests, and preventive care services
 - **Pharmacies** – Use UCard for prescription medications and OTC health products
@@ -58,6 +76,15 @@ UnitedHealthcare and Amazon offer a co-branded OTC catalog where UCard credits c
 - Pain relievers
 - Allergy products and more
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Members can shop online via UCard Hub or visit participating stores such as Walmart, CVS, and Walgreens. The system includes:
 
 - Real-time balance tracking
@@ -78,6 +105,15 @@ Walmart, CVS, Walgreens, Rite Aid, Kroger, Publix, Safeway, Dollar General, Fami
 - Swipe your UCard like a debit card  
 - Pay any remaining balance with another payment method  
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 **What groceries can I buy with UCard?**  
 If your plan includes food benefits, you can buy:
 
@@ -95,6 +131,15 @@ Yes, for:
 - OTC health items
 - Prescription medications
 - Healthy food (if allowed by your plan)
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 **How to pay bills with UCard?**  
 UCard is only for healthcare-related expenses, not for utility bills or rent.
