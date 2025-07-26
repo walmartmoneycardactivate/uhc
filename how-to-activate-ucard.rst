@@ -1,7 +1,7 @@
 .. _how-to-activate-ucard:
 
-How to Activate Your UCard?
-===========================
+UCard Activating
+================
 
 Getting your UnitedHealthcare UCard is just the first step—activating it unlocks all the benefits it offers. Whether you plan to use it for medical payments, prescriptions, or OTC shopping, this guide walks you through the quick and hassle-free activation process. We'll cover both online and phone activation, plus troubleshooting tips in case you hit a snag.
 
