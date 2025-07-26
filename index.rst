@@ -14,6 +14,15 @@ Welcome! If you’ve ever puzzled over what UCard by UnitedHealthcare actually d
    how-to-check-ucard-balance
 
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 What is UCard?
 --------------
 UCard is a versatile card issued by UnitedHealthcare that combines multiple benefits into one. It serves as:
@@ -51,6 +60,15 @@ Who Can Get a UCard?
 --------------------
 UCard is available to UnitedHealthcare members, including Medicare Advantage and Dual Special Needs Plan (D-SNP) participants.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Where is UCard available?
 Nationwide across all 50 U.S. states and U.S. territories where UnitedHealthcare operates.
 
@@ -86,6 +104,15 @@ App Features:
 - Digital UCard access
 - Notifications and alerts
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 How to Download:
 - iOS: App Store
 - Android: Google Play
@@ -104,6 +131,16 @@ Depending on your plan, yes. Check your UCard Hub for eligibility.
 - Mobile: UnitedHealthcare app  
 - Phone: Call UCard number  
 - Receipts: Some stores print it on receipt
+
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 **How to use UCard to pay bills?**  
 - Medical visits, prescriptions, and lab tests are eligible.  
