@@ -3,6 +3,14 @@ UCard Help Documentation
 
 Welcome! If you’ve ever puzzled over what UCard by UnitedHealthcare actually does, you’re in the right spot. This page unpacks everything—from how UCard simplifies healthcare payments and benefits to where and when you can use it. Whether you're covering prescriptions, stocking up on wellness essentials, or tracking your balance, this guide lays it all out in a way that makes sense. Let’s get started!
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 .. toctree::
    :maxdepth: 2
    :caption: UCard Topics
