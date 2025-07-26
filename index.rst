@@ -1,5 +1,5 @@
-UCard Help Documentation
-========================
+Activate.uhc.com - UCard Help Guide
+==================================
 
 Welcome! If you’ve ever puzzled over what UCard by UnitedHealthcare actually does, you’re in the right spot. This page unpacks everything—from how UCard simplifies healthcare payments and benefits to where and when you can use it. Whether you're covering prescriptions, stocking up on wellness essentials, or tracking your balance, this guide lays it all out in a way that makes sense. Let’s get started!
 
