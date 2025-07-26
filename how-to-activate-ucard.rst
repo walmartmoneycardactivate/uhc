@@ -5,6 +5,15 @@ UCard Activating
 
 Getting your UnitedHealthcare UCard is just the first step—activating it unlocks all the benefits it offers. Whether you plan to use it for medical payments, prescriptions, or OTC shopping, this guide walks you through the quick and hassle-free activation process. We'll cover both online and phone activation, plus troubleshooting tips in case you hit a snag.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Why Do You Need to Activate Your UCard?
 ----------------------------------------
 Before you can start using your UCard, you must activate it. Activation ensures your card is secure and linked to your account, allowing you to access healthcare benefits, make purchases, and check your balance.
@@ -13,6 +22,15 @@ Before you can start using your UCard, you must activate it. Activation ensures 
 
 How to Activate UCard Online
 -----------------------------
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+ 
 Follow these simple steps:
 
 1. Visit `https://activate.uhc.com <https://activate.uhc.com>`_
@@ -50,6 +68,15 @@ Troubleshooting Activation Issues
 
 **Tip:** For persistent issues, call the number on your UCard.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Frequently Asked Questions (FAQ)
 ---------------------------------
 
@@ -64,6 +91,15 @@ Frequently Asked Questions (FAQ)
 Yes. Activation links the card to your UHC account and prevents unauthorized use.
 
 **How do I know if my UCard is active?**
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 - Log in to UCard Hub: `https://ucardhub.uhc.com <https://ucardhub.uhc.com>`_
 - Check your balance
@@ -81,6 +117,16 @@ Same steps as above:
 **Tip:** Visit UCard Hub to view the full OTC product list.
 
 **How do I use my UnitedHealthcare UCard?**
+
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Once activated, you can use it for:
 
