@@ -1,7 +1,7 @@
 .. _use-ucard-for-shopping:
 
-Use UCard For Shopping, Payments & Benefits
-===========================================
+Check Your UCard Balance and Available Benefits
+==============================================
 
 Wondering where your UnitedHealthcare UCard actually works? This guide breaks down where and how to use it—from paying for doctor visits and prescriptions to shopping for OTC essentials and healthy groceries.
 
