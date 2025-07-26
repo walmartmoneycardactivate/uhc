@@ -5,6 +5,15 @@ UnitedHealthcare UCard Catalog
 
 Navigating your UnitedHealthcare UCard® benefits effectively requires a clear understanding of the UCard catalog, available options for OTC, healthy food, and utility payments, and the tools to manage your benefit credit. This page covers everything you need to know about the UCard catalog—how to request it, where to shop, what's covered, and how to avoid common issues.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 What Is the UCard® and What Does It Cover?
 ------------------------------------------
 The UCard® is an all-in-one member ID, payment, and benefits access card provided to eligible UnitedHealthcare Medicare Advantage plan enrollees. It unlocks monthly or quarterly OTC credits, healthy food benefits, and even utility bill payment options.
@@ -17,6 +26,16 @@ The UCard® is an all-in-one member ID, payment, and benefits access card provid
 
 What Are OTC Products?
 ----------------------
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 OTC (Over-the-Counter) refers to non-prescription health products you can buy without a doctor's note. Examples include:
 
 - Pain relievers (aspirin, ibuprofen)
@@ -33,6 +52,15 @@ You can shop in the following ways:
 - **Online** via the UCard Hub OTC catalog
 - **Bill Pay** section to pay utility providers linked to UCard
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 Use the product scanner in the UnitedHealthcare mobile app to verify eligibility before checkout.
 
 Accessing the UCard Hub Catalog
@@ -48,6 +76,15 @@ Popular versions:
 - UCard Hub catalog 2024 with pictures
 - UCard catalog Walmart PDF
 - Printable UCard catalog 2024
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Shopping with Your UCard
 ------------------------
@@ -69,6 +106,15 @@ Understanding Your OTC Benefits
 - Check your plan's Evidence of Coverage (EOC)
 - Credits may load monthly or quarterly
 - Always verify balance before shopping
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Common Issues and Solutions
 ---------------------------
@@ -92,6 +138,15 @@ Common Issues and Solutions
 
 **Issue:** Retailer system changes  
 **Solution:** Try alternate store or order online via UCard Hub
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
 
 Where You Can Use the UCard
 ---------------------------
@@ -129,6 +184,17 @@ Summary: Best Practices
 - Confirm eligibility before shopping
 - Download the UCard catalog PDF if not received
 - Ensure utility provider is supported before attempting payment
+
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?36zGdn4a0hTkG7fiXo5KuKjz5yxflU2LXm2IXkifB1JWgVl9AOwjvCkskTv4WKMYx" style="background-color:#007BFF; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Now
+        </a>
+    </div>
+
+
 
 Frequently Asked Questions
 --------------------------
